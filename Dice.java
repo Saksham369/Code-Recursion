@@ -1,5 +1,5 @@
 package com.recursion;
-
+// Asked in amazone
 public class Dice {
     public static void main(String[] args) {
      print("",4);
